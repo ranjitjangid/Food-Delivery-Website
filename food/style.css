@@ -15,8 +15,9 @@
    border-color: rgb(221, 221, 221);
 }
 @media (max-width:850px){
-    section{
+    section, .bg-food{
         padding-left:1.3rem ;
         padding-right: 1.3rem;
     }
+    
 }
